@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "76cXfN01ODk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mozam\\Downloads\\Backend\\soluation11\\Backend\\Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mozam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\mozam\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\mozam\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\mozam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\mozam\\Downloads\\Backend\\soluation11\\Backend\\Backend.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\mozam\\Downloads\\Backend\\soluation11\\Backend\\Backend.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
